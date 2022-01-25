@@ -1,0 +1,10 @@
+main.o
+test_bash.sh
+main.c
+src
+the_result.txt
+lib
+include
+my_ls
+Makefile
+my_result.txt
